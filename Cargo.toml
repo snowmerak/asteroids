@@ -1,0 +1,13 @@
+[package]
+name = "asteroids"
+version = "0.1.0"
+authors = ["snowmerak <go_dev@kakao.com>"]
+edition = "2018"
+license = "Mozilla Public License Version 2.0"
+homepage = "https://github.com/snowmerak"
+repository = "https://github.com/snowmerak/asteroids"
+description = "simple set of macros"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
